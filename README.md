@@ -1,7 +1,5 @@
-### Hi there 👋
-
-<!--
-**Measion/Measion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Measion
+Welcome to my GitHub profile, you can find all kinds of great information on me and my project.
 
 Here are some ideas to get you started:
 
