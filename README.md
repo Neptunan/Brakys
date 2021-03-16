@@ -1,5 +1,5 @@
 **Want to know more about me?**
-You can find out more on me over at my [site](https://www.mooonys.co/reece_barker).
+- You can find out more on me over at my [site](https://www.mooonys.co/reece_barker).
 
 **Who am I currently working for?**
 - **[Mooonys](https://www.mooonys.co/)** is an organization that I have helped produce many interesting things for and is the current place of work for me.
