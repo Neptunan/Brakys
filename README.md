@@ -48,6 +48,7 @@
 ### 📺 My Top Youtube Posts To Watch
 
 <!-- YOUTUBE:START -->
+- [FBI Alexa Open up](https://www.youtube.com/watch?v=hGfX9u0AMV0)
 - [Rice Fields - Hyle](https://www.youtube.com/watch?v=aFh1yjQY8bs)
 - [JavaScript Class Templates - for/ CodyHouse by Measion](https://www.youtube.com/watch?v=bYs6FYoPRGk)
 <!-- YOUTUBE:END -->
