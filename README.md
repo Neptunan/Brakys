@@ -48,11 +48,7 @@
 ### 📺 My Top Youtube Posts To Watch
 
 <!-- YOUTUBE:START -->
-- [Reacting to memes pt. 1](https://www.youtube.com/watch?v=hXGse-VU7Xw)
 - [minecraft bedwars but i have no teammate](https://www.youtube.com/watch?v=5ex-F7bKdKI)
-- [FBI Alexa Open up](https://www.youtube.com/watch?v=hGfX9u0AMV0)
-- [Rice Fields - Hyle](https://www.youtube.com/watch?v=aFh1yjQY8bs)
-- [JavaScript Class Templates - for/ CodyHouse by Measion](https://www.youtube.com/watch?v=bYs6FYoPRGk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
